@@ -11,7 +11,7 @@ e organização da empresa, sendo o resultado da participação de diversos cola
 
 👍 [Código de Conduta](codigo-de-conduta.md)
 
-💡 [Valores](valores-da-empresa.md)
+💡 [Valores](valores.md)
 
 🖥 [Trabalhando](trabalhando.md)
 
