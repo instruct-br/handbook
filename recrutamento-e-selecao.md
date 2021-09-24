@@ -9,3 +9,11 @@ Nunca usamos essa informação como critério de avaliação em hipótese alguma
 Além da localidade, os critérios de seleção não devem nunca conflitar com os valores do código de conduta da empresa.
 
 Para mais informações acesse: https://instruct.com.br/trabalhe-com-a-gente/processo-de-selecao/
+
+---
+
+<div align="center">
+    <a href="README.md">Home: README.md</a>
+    <br />
+    <a href="beneficios.md">Anterior: Benefícios</a> | <a href="papeis.md">Próximo: Papéis</a>
+</div>
