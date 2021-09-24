@@ -61,3 +61,11 @@ Existe uma profunda interligação e relacionamentos entre uma empresa, clientes
 Esperar que uma empresa apenas gere lucro para seus acionistas e essa é puramente sua razão de existir não é condizente com o que a sociedade precisa.
 
 A Instruct tem o compromisso de gerar resultados em conjunto com a satisfação dos colaboradores, realizando um trabalho relevante para nossos clientes e também sempre que possível, encontrar oportunidades para tentar contribuir com a sociedade.
+
+---
+
+<div align="center">
+    <a href="README.md">Home: README.md</a>
+    <br />
+    <a href="codigo-de-conduta.md">Anterior: Código de Conduta</a> | <a href="trabalhando.md">Próximo: Trabalhando</a>
+</div>
