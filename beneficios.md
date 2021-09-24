@@ -115,3 +115,11 @@ Pontos importantes:
 * Reajustes são em média entre 10% a 25%;
 * Posições iniciais têm aumentos proporcionais maiores;
 * Posições além das intermediárias, têm aumentos proporcionais menores;
+
+---
+
+<div align="center">
+    <a href="README.md">Home: README.md</a>
+    <br />
+    <a href="clientes.md">Anterior: Clientes</a> | <a href="recrutamento-e-selecao.md">Próximo: Recrutamento e Seleção</a>
+</div>
