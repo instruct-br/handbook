@@ -352,3 +352,11 @@ Mais de 1 mês
 * Você é capaz de inspirar os profissionais e direcioná-los em suas carreiras.
 * Você aplica os valores da empresa no seu dia-a-dia de trabalho.
 * Conhecedor do conceito Blameless você o aplica, identificando no processo as falhas, porém sem negligenciar as responsabilidades inerentes de cada função.
+
+---
+
+<div align="center">
+    <a href="README.md">Home: README.md</a>
+    <br />
+    <a href="recrutamento-e-selecao.md">Anterior: Recrutamento e Seleção</a>
+</div>
