@@ -97,3 +97,11 @@ Reflita se você não está potencializando dificuldades e tornando-as maiores d
 Se ainda faltam informações, sempre busque por mais informações nos canais de forma aberta para que todos possam colaborar.
 
 Caso você tenha encontrado a solução para a sua dúvida, documente-a.
+
+---
+
+<div align="center">
+    <a href="README.md">Home: README.md</a>
+    <br />
+    <a href="meios-de-comunicacao.md">Anterior: Meios de Comunicação</a> | <a href="feedback.md">Próximo: Feedback</a>
+</div>
