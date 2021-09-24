@@ -54,3 +54,11 @@ Esse também é o momento onde é avaliado se a pessoa está respondendo aos fee
 * Não leve para o lado pessoal;
 * Não se sinta desprestigiado;
 * Não há necessidade de uma postura defensiva;
+
+---
+
+<div align="center">
+    <a href="README.md">Home: README.md</a>
+    <br />
+    <a href="nossa-organizacao.md">Anterior: Nossa Organização</a> | <a href="clientes.md">Próximo: Clientes</a>
+</div>
