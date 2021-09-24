@@ -9,3 +9,11 @@ O uso de termos inadequados, intimidação, assédio, comportamento rude, ofensi
 Infrações ao nosso código de condutas serão tratadas com rigor.
 
 Todos os colaboradores aceitam os termos deste Código de Conduta para trabalhar na Instruct.
+
+---
+
+<div align='center'>
+    <a href="README.md">Home: README.md</a>
+    <br />
+    <a href="valores.md">Próximo: Valores</a>
+</div>
