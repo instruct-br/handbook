@@ -105,3 +105,11 @@ Quando necessário, marque os compromissos com os colegas de time no seu calend�
 Registre também horários de indisponibilidade para facilitar a definição de agendas na sua ausência.
 
 Por padrão, todas as agendas de cada colaborador são públicas.
+
+---
+
+<div align="center">
+    <a href="README.md">Home: README.md</a>
+    <br />
+    <a href="trabalhando.md">Anterior: Trabalhando</a> | <a href="nossa-organizacao.md">Próximo: Nossa Organização</a>
+</div>
