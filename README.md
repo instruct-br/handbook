@@ -29,6 +29,8 @@ e organização da empresa, sendo o resultado da participação de diversos cola
 
 🚀 [Papéis](papeis.md)
 
+📚 [Iniciativas](iniciativas.md)
+
 # Referências
 
 [Improving Your Team's Communication In The Age Of Remote Work — Smashing Magazine](https://www.smashingmagazine.com/2021/02/improve-team-communication-age-remote-work/)
