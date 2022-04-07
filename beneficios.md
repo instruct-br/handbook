@@ -56,7 +56,7 @@ Para solicitar o cartão basta ir até a unidade mais próxima e apresentar:
 * Carteira de trabalho
 * Último holerite.
 
-Para mais informações acesse: [Sesc / Serviço Social do Comércio](http://www.sesc.com.br/portal/pagina_inicial)
+Para mais informações acesse: [Sesc / Serviço Social do Comércio](http://www.sesc.com.br/)
 
 ## Reembolso de despesas
 
